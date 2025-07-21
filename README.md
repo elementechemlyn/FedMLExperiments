@@ -106,4 +106,4 @@ MIT License
 
 ---
 
-*This project is for educational purposes and not intended for
+*This project is for educational purposes and not intended for production use

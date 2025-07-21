@@ -1,0 +1,4 @@
+# client/requirements.txt
+requests
+tensorflow
+numpy

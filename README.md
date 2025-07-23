@@ -1,4 +1,5 @@
 # Federated Learning Demo
+[AI Generated README]
 
 This project demonstrates a simple federated learning setup using Docker, Flask, and TensorFlow/Keras. Multiple client containers train a model on their own data and periodically send updates to a central server, which aggregates the updates to improve a global model.
 
@@ -36,7 +37,7 @@ server/
 
 1. **Clone the repository**  
    ```sh
-   git clone <your-repo-url>
+   git clone git@github.com:elementechemlyn/FedMLExperiments.git
    cd fedlearning
    ```
 
